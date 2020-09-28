@@ -38,7 +38,6 @@ php artisan serve
 
 ## Documentação
 - [Relatório](report.pdf)
-- [Enunciado](outline.pdf)
 
 ## Autores
 - Diogo Santos
