@@ -1,2 +1,1 @@
-# ptdw
-Projecto Temático em Desenvolvimento Web
+# Projeto Temático em Desenvolvimento Web
